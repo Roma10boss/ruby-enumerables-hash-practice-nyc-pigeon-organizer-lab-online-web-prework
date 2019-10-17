@@ -37,4 +37,5 @@ def nyc_pigeon_organizer(data)
     :lives => ["Central Park"]
   }
 }
+puts pigeon_list
 end
