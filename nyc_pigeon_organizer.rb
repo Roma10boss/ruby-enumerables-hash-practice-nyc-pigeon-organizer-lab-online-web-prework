@@ -36,7 +36,8 @@ def nyc_pigeon_organizer(data)
     :gender => ["male"],
     :lives => ["Central Park"]
   }
+  puts pigeon_list
 }
   
-puts pigeon_list
+
 end
